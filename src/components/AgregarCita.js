@@ -130,7 +130,7 @@ const AgregCita = ({ id, setcitaId }) => {
 
           <Form.Group className="mb-3" controlId="formcitashora">
             <InputGroup>
-              <InputGroup.Text id="formcitasservicio">3</InputGroup.Text>
+              <InputGroup.Text id="formcitasservicio">4</InputGroup.Text>
               <Form.Control
                 type="time"
                 placeholder="Hora"
@@ -143,7 +143,7 @@ const AgregCita = ({ id, setcitaId }) => {
 
           <Form.Group className="mb-3" controlId="formcitasestilista">
             <InputGroup>
-              <InputGroup.Text id="formcitasservicio">4</InputGroup.Text>
+              <InputGroup.Text id="formcitasservicio">5</InputGroup.Text>
               <Form.Control
                 type="text"
                 placeholder="Estilista"
