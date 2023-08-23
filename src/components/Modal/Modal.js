@@ -19,7 +19,7 @@ function Example() {
         <Modal.Header closeButton>
           <Modal.Title>Si tienes alguna duda contactanos</Modal.Title>
         </Modal.Header>
-        <Modal.Body>Redacta tu duda o sugerencia en la seccion de abajo</Modal.Body>
+        <Modal.Body>Redacta tu duda o sugerencia en la seccion de abajo!</Modal.Body>
 
         <div class="center">
 
