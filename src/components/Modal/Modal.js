@@ -17,7 +17,7 @@ function Example() {
 
       <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
-          <Modal.Title>Si tienes alguna duda contactanos</Modal.Title>
+          <Modal.Title>Si tienes alguna duda contactanos!</Modal.Title>
         </Modal.Header>
         <Modal.Body>Redacta tu duda o sugerencia en la seccion de abajo!</Modal.Body>
 
